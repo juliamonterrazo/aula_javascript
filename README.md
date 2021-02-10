@@ -1,3 +1,3 @@
-# aula_javascript
-Introdução ao JavaScript
-By Júlia
+:frog: Curso JavaScript :frog:
+==============================
+          By Júlia
